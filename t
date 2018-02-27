@@ -1,3 +1,3 @@
 #!./42sh
 echo lol
-echo bite
+echo toto
